@@ -21,5 +21,5 @@
 
     <!-- PLUGINS * PLUGINS * PLUGINS -->
     <plugin name="cordova-plugin-device"     source="npm" spec="1.0.1" />
-    <plugin name="wifiwizard" source="npm" spec="2.0.10" />
+    <plugin name="wifiwizard" source="npm" spec="0.2.10" />
   </widget>
